@@ -1,0 +1,9 @@
+{
+  "name": "OBaCT",
+  "version_number": "1.0.1",
+  "website_url": "https://discord.gg/QGfV69pQ", 
+  "description": "Overhead Bars + Combat Text for Erenshor. Adds classic MMO-style polished unit frames with floating combat text. Configurable via F11.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
