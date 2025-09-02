@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 688683631
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: obactfonts
+      Dependencies: {}
